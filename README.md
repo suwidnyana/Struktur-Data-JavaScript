@@ -29,7 +29,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
-[Node-url]: https://nextjs.org/](https://nodejs.org/en)
+[Node-url]: https://nodejs.org/en
 [Javascript.js]: https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
 [Javascript-url]: https://www.javascript.com
 
